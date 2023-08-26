@@ -23,7 +23,8 @@ This web application is coded in html5 and css3, no framework just from scratch 
 ## Screenshots
 <div style="display:flex;" >
 <img  src="screenshots/10.png" width="19%" >
-<img style="margin-left:10px;" src="../../screenshots/20.png" width="19%" >
+<img style="margin-left:10px;" src="screenshots/20.png" width="19%" >
+![alt text](https://github.com/[NoirLezard]/[OCprojetOMF]/blob/[main]/20.png?raw=true)
 <img style="margin-left:10px;" src="screenshots/30.png" width="19%" >
 <img style="margin-left:10px;" src="screenshots/40.png" width="19%" >
 <img style="margin-left:10px;" src="screenshots/50.png" width="19%" >
