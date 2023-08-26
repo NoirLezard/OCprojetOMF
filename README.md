@@ -24,15 +24,19 @@ This web application is coded in html5 and css3, no framework just from scratch 
 ## Screenshots
 <div style="display:flex;" >
 
-[![screenshot](screenshots/10.png)](#)
-<img  src="screenshots/10.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/20.png" width="19%" >
+<!-- [![screenshot](screenshots/10.png)](/#) -->
+<img  src="screenshots/10.png" width="25%" >
+<img style="margin-left:10px;" src="screenshots/20.png" width="25%" >
+<img style="margin-left:10px;" src="screenshots/30.png" width="25%" >
+<img style="margin-left:10px;" src="screenshots/40.PNG" width="50%" >
+<img style="margin-left:10px;" src="screenshots/50.PNG" width="50%" >
+<img style="margin-left:10px;" src="screenshots/60.PNG" width="50%" >
 
 <!-- ![screenshots](https://github.com/[NoirLezard]/[OCprojetOMF]/blob/[main]/20.png?raw=true) -->
-<img style="margin-left:10px;" src="screenshots/30.PNG" width="19%" >
-<img style="margin-left:10px;" src="screenshots/40.PNG" width="19%" >
-<img style="margin-left:10px;" src="screenshots/50.PNG" width="19%" >
-<img style="margin-left:10px;" src="screenshots/60.PNG" width="19%" >
+<!-- <img style="margin-left:10px;" src="screenshots/30.PNG" width="19%" >
+<img style="margin-left:10px;" src="screenshots/40.PNG" width="50%" >
+<img style="margin-left:10px;" src="screenshots/50.PNG" width="50%" >
+<img style="margin-left:10px;" src="screenshots/60.PNG" width="auto" > -->
 
 </div>
 
