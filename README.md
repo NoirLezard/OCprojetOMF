@@ -1,3 +1,4 @@
+
 ## OC projet OMF ##
 
 Find exceptional restaurants and compose your menu and enjoy !
@@ -22,14 +23,16 @@ This web application is coded in html5 and css3, no framework just from scratch 
 
 ## Screenshots
 <div style="display:flex;" >
+
+[![screenshot](screenshots/10.png)](#)
 <img  src="screenshots/10.png" width="19%" >
 <img style="margin-left:10px;" src="screenshots/20.png" width="19%" >
-![](screenshots/20.png)
+
 <!-- ![screenshots](https://github.com/[NoirLezard]/[OCprojetOMF]/blob/[main]/20.png?raw=true) -->
-<img style="margin-left:10px;" src="screenshots/30.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/40.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/50.png" width="19%" >
-<img style="margin-left:10px;" src="screenshots/60.png" width="19%" >
+<img style="margin-left:10px;" src="screenshots/30.PNG" width="19%" >
+<img style="margin-left:10px;" src="screenshots/40.PNG" width="19%" >
+<img style="margin-left:10px;" src="screenshots/50.PNG" width="19%" >
+<img style="margin-left:10px;" src="screenshots/60.PNG" width="19%" >
 
 </div>
 
