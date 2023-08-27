@@ -51,6 +51,8 @@ A user has been created for you with the following login credentials:
 
 ### Hosting ###
 
+https://noirlezard.github.io/OCprojetOMF/
+
 
 #### Licensing
 OC projet OMF is licensed under the [GNU v3 Public License](#).
