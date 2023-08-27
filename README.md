@@ -29,7 +29,7 @@ This web application is coded in html5 and css3, no framework just from scratch 
 <img style="margin-left:10px;" src="screenshots/20.PNG" width="32%" >
 <img style="margin-left:10px;" src="screenshots/30.PNG" width="32%" >
 <img style="margin-left:10px;" src="screenshots/40.PNG" width="100%" >
-<img style="margin-left:10px;" src="screenshots/100.PNG" width="100%" >
+<img style="margin-left:10px;" src="screenshots/50.PNG" width="100%" >
 <img style="margin-left:10px;" src="screenshots/60.PNG" width="100%" >
 
 </div>
